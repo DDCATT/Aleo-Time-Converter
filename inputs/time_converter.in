@@ -1,0 +1,3 @@
+// The program input for time_converter/src/main.leo
+[main]
+public a: u32 = 5u32;
